@@ -1,1 +1,1 @@
-# qtdecarne
+Faça um programa para calcular a quantidade de carne necessária para um churrasco de acordo com o número de pessoas convidadas. Considere que todas são adultas e que um adulto consome 250 gramas de carne por refeição.
